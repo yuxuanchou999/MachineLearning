@@ -1,6 +1,5 @@
 # MyML
-This repository is used to save my answer to the assignment of Andrew Ng's Machine Learning course on Coursera.
-The foloowing are the programming assignments from Coursera's Machine Learning course taught by Andrew Ng.
+The following are the programming assignments from Coursera's Machine Learning course taught by Andrew Ng.
 
 Include:
 
